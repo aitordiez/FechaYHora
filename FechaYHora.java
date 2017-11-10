@@ -20,11 +20,11 @@ public class FechaYHora
      */
     public FechaYHora()
     {
-        dias= new DisplayDosCaracteres(07);
-        meses=new DisplayDosCaracteres(11);
-        anhos= new DisplayDosCaracteres(17);
-        horas= new NumberDisplay(8);
-        minutos=new NumberDisplay(35);
+        dias= new DisplayDosCaracteres(31);
+        meses=new DisplayDosCaracteres(13);
+        anhos= new DisplayDosCaracteres(99);
+        horas= new NumberDisplay(24);
+        minutos=new NumberDisplay(60);
         
     }
 
